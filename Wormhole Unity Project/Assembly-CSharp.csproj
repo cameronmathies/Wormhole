@@ -46,6 +46,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Code\Levelload.cs" />
+     <Compile Include="Assets\Code\PLayer.cs" />
      <None Include="Assets\Fount\Star Trek\Star Trek font.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
