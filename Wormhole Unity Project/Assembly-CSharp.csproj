@@ -51,6 +51,7 @@
      <Compile Include="Assets\Code\PLayer.cs" />
      <Compile Include="Assets\Code\Telaport.cs" />
      <Compile Include="Assets\Code\TelaportTake2.cs" />
+     <Compile Include="Assets\Code\end.cs" />
      <None Include="Assets\Fount\Star Trek\Star Trek font.txt" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
